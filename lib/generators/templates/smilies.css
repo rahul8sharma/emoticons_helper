@@ -1,19 +1,93 @@
 .smilies{width:20px; height:20px; display: inline-block;}
-.smile{background:url(smilies/smilies-sprite.png) 0 0;}
-.laugh{background:url(smilies/smilies-sprite.png) -20px 0;}
-.tongue{background:url(smilies/smilies-sprite.png) -20px -20px;}
-.smart{background:url(smilies/smilies-sprite.png) -40px 0;}
-.sad{background:url(smilies/smilies-sprite.png) -60px -60px;}
-.wink{background:url(smilies/smilies-sprite.png) -60px -20px;}
-.angry{background:url(smilies/smilies-sprite.png) -60px 0;}
-.louds{background:url(smilies/smilies-sprite.png) -60px -60px;}
-.evil{background:url(smilies/smilies-sprite.png) -80px -104px;}
-.skeptical{background:url(smilies/smilies-sprite.png) -80px -40px;}
-.confused{background:url(smilies/smilies-sprite.png) -40px -20px;}
-.sleeping{background:url(smilies/smilies-sprite.png) -20px -60px;}
-.like{background:url(smilies/smilies-sprite.png) 0 -104px;}
-.dislike{background:url(smilies/smilies-sprite.png) -20px -104px;}
-.rofl{background:url(smilies/smilies-sprite.png) -60px -40px;}
+.smile{
+    background: url('smilies/smilies-sprite.png') no-repeat 75.806% 96.578%;
+    background-size: 800px 800px;
+    width: 25px;
+    height: 26px;
+}
+.laugh{
+    background: url('smilies/smilies-sprite.png') no-repeat 75.773% 62.049%;
+    background-size: 800px 800px;
+    width: 24px;
+    height: 24px;
+}
+.tongue{
+    background: url('smilies/smilies-sprite.png') no-repeat 79.202% 51.773%;
+    background-size: 800px 800px;
+    width: 24px;
+    height: 25px;
+}
+.smart{
+    background: url('smilies/smilies-sprite.png') no-repeat 79.277% 7.097%;
+    background-size: 800px 800px;
+    width: 26px;
+    height: 25px;
+}
+.sad{
+    background: url('smilies/smilies-sprite.png') no-repeat 79.277% 0.194%;
+    background-size: 800px 800px;
+    width: 26px;
+    height: 26px;
+}
+.wink{
+    background: url('smilies/smilies-sprite.png') no-repeat 75.806% 93.157%;
+    background-size: 800px 800px;
+    width: 25px;
+    height: 26px;
+}
+.angry{
+    background: url('smilies/smilies-sprite.png') no-repeat 79.277% 69.032%;
+    background-size: 800px 800px;
+    width: 26px;
+    height: 25px;
+}
+.louds{
+    background: url('smilies/smilies-sprite.png') no-repeat 75.806% 75.92%;
+    background-size: 800px 800px;
+    width: 25px;
+    height: 26px;
+}
+.evil{
+    background: url('smilies/smilies-sprite.png') no-repeat 79.277% 72.498%;
+    background-size: 800px 800px;
+    width: 26px;
+    height: 26px;
+}
+.skeptical{
+    background: url('smilies/smilies-sprite.png') no-repeat 79.277% 10.523%;
+    background-size: 800px 800px;
+    width: 26px;
+    height: 26px;
+}
+.confused{
+    background: url('smilies/smilies-sprite.png') no-repeat 79.202% 31.121%;
+    background-size: 800px 800px;
+    width: 24px;
+    height: 24px;
+}
+.sleeping{
+    background: url('smilies/smilies-sprite.png') no-repeat 82.721% 34.516%;
+    background-size: 800px 800px;
+    width: 25px;
+    height: 25px;
+}
+.like{
+    background: url('smilies/smilies-sprite.png') no-repeat 44.816% 75.92%;
+    background-size: 800px 800px;
+    width: 24px;
+    height: 26px;
+}
+.dislike{
+    background: url('smilies/smilies-sprite.png') no-repeat 44.816% 79.10%;
+    background-size: 800px 800px;
+    width: 24px;
+    height: 26px;
+}
+.rofl{background: url('smilies/smilies-sprite.png') no-repeat 75.806% 82.721%;
+    background-size: 800px 800px;
+    width: 25px;
+    height: 25px;
+}
 
 /* Animated Smilies*/
 
